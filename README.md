@@ -14,7 +14,8 @@
 
 ## Constraints / guarantees
 
-There is **at least** one bug present in the main program logic.
+1. There is **at least** one bug present in the main program logic.
+2. No changes can be made to `demo.py`.
 
 ## What constitutes a bug?
 
